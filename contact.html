@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Get in touch with us! Use our contact form for inquiries, support requests, or feedback. We're here to help with any questions you may have about our services or products. Contact us today.">
+    <title>Contact</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+</head>
+<body class="Contact-page">
+    <header>
+        <nav class="navbar">
+            <span class="navbar-toggle" id="js-navbar-toggle">
+                <i class="fas fa-bars"></i>
+            </span>            
+            <a href="index.html" class="logo">
+                <img src="images/SquareEyes_Logo.png" alt="Square Eyes Logo">
+            </a>
+            <ul class="main-nav" id="js-menu">
+                <li>
+                    <a href="Movies.html" class="nav-links">Movies</a>
+                </li>
+              
+               
+                <li>
+                    <a href="About.html" class="nav-links">About Us</a>
+                </li>
+                <li>
+                    <a href="Contact.html" class="nav-links">Contact</a>
+                </li>
+                <li>
+                    <a href="Login.html" class="nav-links">Login</a>
+                </li>
+            </ul>
+        </nav>
+   
+    </header>
+    <h1 class="Login">Contact Form</h1>
+    <div class="form-container">
+        <form action="/action_page.php" method="post">
+            <label for="uname"><b>Username</b></label><br>
+            <input type="text" id="uname" placeholder="Enter Username"><br> 
+            
+            <label for="psw"><b>Password</b></label><br>
+            <input type="password" id="psw" placeholder="Enter Password"><br> 
+    
+            <button type="submit">Login</button>
+    
+            <label>
+                <input type="checkbox" checked="checked" name="remember">Remember me
+            </label>
+    
+            <button type="button" class="cancelbtn">Cancel</button>
+            <span class="psw">Forgot <a href="#"><b>password?</b></a></span>
+    
+           
+            <textarea id="subject" name="subject">Enter a word...</textarea>
+    
+            <input type="submit">
+        </form>
+    </div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
