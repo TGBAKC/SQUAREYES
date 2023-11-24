@@ -717,8 +717,6 @@ button#add-comment:hover {
   }
 }
 
-/* Media queries */
-
 @media (max-width: 400px) {
   button#add-comment {
     cursor: pointer;
