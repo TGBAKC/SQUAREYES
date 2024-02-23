@@ -1,24 +1,30 @@
 **Squereeyes**
 ![alt text](image.png)
 
-*The Community Science Museum offers an interactive journey into science for kids 7-15 and their families. Explore vibrant exhibits, engage in hands-on learning, and ignite curiosity. Visit our website for all you need to plan your adventure. Join us to inspire future scientists!*
+*Square Eyes is a cross course project that I made during my first year at Noroff. It's a fictional website for movie directors and watchers, showing the account for movie watchers only. There are still several changes and improvements needed, as it's mostly built using HTML and CSS with some JavaScript.*
 
 
 **DESCRIPTION**
+Welcome to our video streaming platform, where film enthusiasts can directly buy and enjoy high-quality movies from the creators themselves. Aimed at movie lovers aged 25 to 40, our site makes it easy to find and explore a wide range of films across various genres.
 
+Our slogan, "Connecting Film-Lovers," captures our mission to bring together a community of viewers and filmmakers. Here, you can quickly purchase and stream your next favorite film, supporting the creators directly.
+
+Our user-friendly website highlights the latest and most popular films, offering personalized suggestions to help you discover new cinematic treasures. Whether you're after an indie film, a touching documentary, or a critically acclaimed hit, we're your one-stop-shop for great cinema.
+
+Join us on a journey through captivating stories and unique visions from around the world, all from the comfort of your home.
 
 Site architecture:
 ___
 
-- Visit
+- Movies
 
-- Exhibitions
+- About us 
 
-- Explore
+- Contact
 
-- Events
+- Login
 
-- Get Involved
+  
 
 
 **Build with:**
@@ -38,7 +44,7 @@ ___
 
 1.Clone the repo:
 ```bash
- git clone git@github.com:TGBAKC/2023-09-16_Semester_Project_1_CA_Tugba-AKCA.git
+ git clone git@github.com:TGBAKC/SQUAREYES.git
 ```
 2.Install the depencies:
 ```bash
