@@ -63,3 +63,4 @@ npm run start
 If you would like to contribute to my project - Just make a pull request and push your changes.
 
 **Contact**
+filizakca4@gmail.com
